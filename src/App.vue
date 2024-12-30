@@ -1,8 +1,4 @@
 
-
-
-
-
 <template>
   <div>
     <Layout v-if="!isAdminRoute">
